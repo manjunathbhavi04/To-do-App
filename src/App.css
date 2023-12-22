@@ -1,0 +1,22 @@
+
+
+input {
+    width: 100%;
+}
+
+.item-container {
+    text-align: left;
+}
+
+.btn-item {
+    min-width: 80px;
+}
+
+.btn-class{
+    text-align: center;
+}
+
+.row-item {
+    margin: 10px 5px;
+}
+
